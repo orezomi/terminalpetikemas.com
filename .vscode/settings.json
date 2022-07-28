@@ -1,0 +1,36 @@
+{
+    "frontMatter.content.autoUpdateDate": true,
+    "frontMatter.taxonomy.contentTypes": [
+        {
+            "name": "default",
+            "pageBundle": false,
+            "fields": [
+                {
+                    "title": "title",
+                    "name": "title",
+                    "type": "string"
+                },
+                {
+                    "title": "date",
+                    "name": "date",
+                    "type": "datetime"
+                },
+                {
+                    "title": "draft",
+                    "name": "draft",
+                    "type": "datetime"
+                },
+                {
+                    "title": "description",
+                    "name": "description",
+                    "type": "string"
+                },
+                {
+                    "title": "lastmod",
+                    "name": "lastmod",
+                    "type": "datetime"
+                }
+            ]
+        }
+    ]
+}
