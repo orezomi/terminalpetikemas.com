@@ -2,7 +2,7 @@
 title: Terminal Petikemas
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-29T11:23:05.710Z
+lastmod: 2022-07-29T11:28:27.073Z
 slug: Home
 type: docs
 ---
@@ -17,10 +17,3 @@ Terminal petikemas memiliki peran sentral dalam transportasi barang internasiona
 Efisiensi terminal dalam menjalankan fungsinya memiliki dampak yang sangat signifikan terhadap kecepatan, kelancaran dan biaya pengangkutan kargo dari eksportir ke importir, dan setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin.
 
 ![Terminal Petikemas](/img/terminal_petikemas.jpeg)
-
-<form>
-  <div class="form-group">
-    <label for="formControlRange">Example Range input</label>
-    <input type="range" class="form-control-range" id="formControlRange">
-  </div>
-</form>
