@@ -3,7 +3,7 @@ title: Terminal Petikemas
 date: 2022-07-28T22:09:33+07:00
 draft: false
 description: Referensi Pilihan Utama Terminal Petikemas
-lastmod: 2022-07-29T01:44:15.669Z
+lastmod: 2022-07-29T07:37:07.767Z
 slug: Terminal Petikemas
 type: docs
 ---
@@ -12,4 +12,4 @@ Sejarah perkembangan terminal petikemas di Indonesia
 ## Perkembangan Terminal Petikemas di Indonesia
 Kondisi saat ini terminal petikemas di Indonesia
 ## Masa Depan Terminal Petikemas di Indonesia
-Bagaimana dengan masa depan terminal petikemas di Indonesia
+Bagaimana dengan masa depan terminal petikemas di Indonesia.
