@@ -1,7 +1,7 @@
 ---
 title: Teus Ratio
 date: 2022-07-30T04:22:55+07:00
-draft: false
+draft: true
 type: docs
-lastmod: 2022-07-29T21:24:14.723Z
+lastmod: 2022-07-29T21:43:30.837Z
 ---
