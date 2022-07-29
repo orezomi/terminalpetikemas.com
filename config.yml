@@ -2,5 +2,6 @@ baseURL: https://terminalpetikemas.com/
 languageCode: en-us
 title: Terminal Petikemas
 theme: docsy
+contentDir: content
 minify:
   minifyOutput: true
