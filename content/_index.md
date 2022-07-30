@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T05:34:54.894Z
+lastmod: 2022-07-30T07:19:40.120Z
 slug: Home
 type: docs
 staticDir:
@@ -12,6 +12,13 @@ description: Terminal petikemas modern merupakan tempat di mana berbagai aktivit
   mengangkat dan memindahkan kargo terjadi pada saat yang bersamaan, mesin-mesin
   besar dan peralatan berat bergerak ke segala arah, juga tempat kapal dan
   kendaraan kargo datang dan pergi.
+resources:
+  - src: "**shipping*.jpg"
+    params:
+      byline: "Photo by : Fortune Magazine, April 2012"
+  - src: "**terminal*.jpeg"
+    params:
+      byline: "Photo by : reliance-foundry.com"
 ---
 ## Kenapa Terminal Petikemas
 
@@ -23,14 +30,14 @@ Efisiensi terminal dalam menjalankan fungsinya memiliki dampak yang sangat signi
 
 Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin
 
-|[![Terminal Petikemas](/img/terminal_petikemas_2.jpeg "Terminal Petimekas")](/img/terminal_petikemas_2.jpeg)|
-|:--:|
-|*Terminal Petikemas (Doc. reliance-foundry.com)*|
+{{< imgproc terminal Fill "800x500" >}}
+Terminal Petikemas
+{{< /imgproc >}}
 
 ## Jaringan Pelayaran Dunia
 
 Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembangan perekonomian. Seluruh terminal petikemas di Dunia terhubung melalui jaringan pelayaran ini. Pelayaran yang efektif menuntut kinerja terminal petikemas memberikan performa terbaik dalam penanganan bongkar muat kargo. Semakin cepat bongkar muat kargo kapal, semakin baik dampaknya bagi pelayaran dan terminal petikemas itu sendiri.
 
-|[![Jaringan Pelayaran Dunia](/img/shipping_network.jpg "Jaringan Pelayaran Dunia")](/img/shipping_network.jpg)|
-|:--:|
-|*Jaringan Pelayaran Dunia*|
+{{< imgproc shipping Fill "800x500" >}}
+Jaringan Pelayaran Dunia
+{{< /imgproc >}}
