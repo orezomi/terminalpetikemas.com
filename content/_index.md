@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T03:07:11.365Z
+lastmod: 2022-07-30T03:49:37.805Z
 slug: Home
 type: docs
 description: Terminal petikemas modern merupakan tempat di mana berbagai aktivitas kompleks
@@ -21,7 +21,7 @@ Efisiensi terminal dalam menjalankan fungsinya memiliki dampak yang sangat signi
 
 Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin
 
-|[![Terminal Petikemas NPCT 1](/img/terminal_petikemas_2.jpeg "Terminal Petimekas NPCT 1")](/img/terminal_petikemas_2.jpeg)|
+|[![Terminal Petikemas](/img/terminal_petikemas_2.jpeg "Terminal Petimekas")](/img/terminal_petikemas_2.jpeg)|
 |:--:|
 |*Terminal Petikemas (Doc. reliance-foundry.com)*|
 
