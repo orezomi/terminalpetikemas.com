@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T03:49:37.805Z
+lastmod: 2022-07-30T04:17:35.652Z
 slug: Home
 type: docs
 description: Terminal petikemas modern merupakan tempat di mana berbagai aktivitas kompleks
@@ -29,6 +29,6 @@ Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja se
 
 Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembanban perekonomian. Seluruh terminal petikemas di Dunia terhubung melalui jaringan pelayaran ini.
 
-|[![Jaringan Pelayaran Dunia](/img/SHIPPING_MAP_lo_res.jpg "Jaringan Pelayaran Dunia")](/img/SHIPPING_MAP_lo_res.jpg)|
+|[![Jaringan Pelayaran Dunia](/img/shipping_network.jpg "Jaringan Pelayaran Dunia")](/img/shipping_network.jpg)|
 |:--:|
 |*Jaringan Pelayaran Dunia*|
