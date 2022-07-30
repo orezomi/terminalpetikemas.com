@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T04:30:58.637Z
+lastmod: 2022-07-30T04:45:22.097Z
 slug: Home
 type: docs
 description: Terminal petikemas modern merupakan tempat di mana berbagai aktivitas kompleks
@@ -27,7 +27,7 @@ Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja se
 
 ## Jaringan Pelayaran Dunia
 
-Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembangan perekonomian. Seluruh terminal petikemas di Dunia terhubung melalui jaringan pelayaran ini. Pelayaran yang efektif menuntut kinerja terminal petikemas memberikan performa terbaik dalam penanganan bongkar muat kargo.
+Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembangan perekonomian. Seluruh terminal petikemas di Dunia terhubung melalui jaringan pelayaran ini. Pelayaran yang efektif menuntut kinerja terminal petikemas memberikan performa terbaik dalam penanganan bongkar muat kargo. Semakin cepat bongkar muat kargo kapal, semakin baik dampaknya bagi pelayaran dan terminal petikemas itu sendiri.
 
 |[![Jaringan Pelayaran Dunia](/img/shipping_network.jpg "Jaringan Pelayaran Dunia")](/img/shipping_network.jpg)|
 |:--:|
