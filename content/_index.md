@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T07:19:40.120Z
+lastmod: 2022-07-30T09:32:58.652Z
 slug: Home
 type: docs
 staticDir:
@@ -19,6 +19,9 @@ resources:
   - src: "**terminal*.jpeg"
     params:
       byline: "Photo by : reliance-foundry.com"
+  - src: "**pendulum*.png"
+    params:
+      byline: "Photo by : terminalpetikemas.com"
 ---
 ## Kenapa Terminal Petikemas
 
@@ -40,4 +43,10 @@ Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembangan perekonomia
 
 {{< imgproc shipping Fill "800x500" >}}
 Jaringan Pelayaran Dunia
+{{< /imgproc >}}
+
+## Jaringan Pelayaran Domestik
+
+{{< imgproc pendulum Fill "800x322" >}}
+Jaringan Pelayaran Domestik
 {{< /imgproc >}}
