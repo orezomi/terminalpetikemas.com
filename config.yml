@@ -2,6 +2,30 @@ baseURL: https://terminalpetikemas.com/
 languageCode: en-us
 title: Terminal Petikemas
 theme: docsy
-contentDir: content
+contentDir: content/
+taxonomies:
+  tag: tags
+  category: categories
 minify:
   minifyOutput: true
+enableGitInfo: true
+params:
+  ShowShareButtons: true
+  github_repo: 'https://github.com/orezomi/terminalpetikemas.com'
+  offlineSearch: true
+  offlineSearchSummaryLength: 200
+  offlineSearchMaxResults: 25
+  ui:
+    sidebar_menu_compact: true
+    sidebar_menu_foldable: false
+
+  taxonomy:
+    taxonomyCloud:
+      - tags
+      - categories
+    taxonomyCloudTitle:
+      - Tag Cloud
+      - Categories
+    taxonomyPageHeader:
+      - tags
+      - categories

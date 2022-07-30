@@ -1,19 +1,34 @@
 ---
 title: Terminal Petikemas
+linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-29T21:15:06.074Z
+lastmod: 2022-07-30T03:07:11.365Z
 slug: Home
 type: docs
+description: Terminal petikemas modern merupakan tempat di mana berbagai aktivitas kompleks
+  mengangkat dan memindahkan kargo terjadi pada saat yang bersamaan, mesin-mesin
+  besar dan peralatan berat bergerak ke segala arah, juga tempat kapal dan
+  kendaraan kargo datang dan pergi.
 ---
-## Apa itu Terminal Petikemas?
-
-Terminal petikemas modern merupakan tempat di mana berbagai aktivitas kompleks terjadi pada saat yang bersamaan, mesin-mesin besar bergerak ke segala arah, peralatan berat mengangkat dan memindahkan kargo, kapal dan kendaraan yang datang dan pergi.
+## Kenapa Terminal Petikemas
 
 Tujuan utama dari semua kegiatan ini adalah untuk mentransfer barang dalam kontainer atau petikemas, secepat dan seefisien mungkin, antara transportasi darat dan laut.
 
 Terminal petikemas memiliki peran sentral dalam transportasi barang internasional; merupakan mata rantai penting dalam rantai transportasi.
 
-Efisiensi terminal dalam menjalankan fungsinya memiliki dampak yang sangat signifikan terhadap kecepatan, kelancaran dan biaya pengangkutan kargo dari eksportir ke importir, dan setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin.
+Efisiensi terminal dalam menjalankan fungsinya memiliki dampak yang sangat signifikan terhadap kecepatan, kelancaran dan biaya pengangkutan kargo dari penjual ke pembeli atau dari eksportir ke importir.
 
-![Terminal Petikemas](/img/terminal_petikemas.jpeg)
+Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin
+
+|[![Terminal Petikemas NPCT 1](/img/terminal_petikemas_2.jpeg "Terminal Petimekas NPCT 1")](/img/terminal_petikemas_2.jpeg)|
+|:--:|
+|*Terminal Petikemas (Doc. reliance-foundry.com)*|
+
+## Jaringan Pelayaran Dunia
+
+Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembanban perekonomian. Seluruh terminal petikemas di Dunia terhubung melalui jaringan pelayaran ini.
+
+|[![Jaringan Pelayaran Dunia](/img/SHIPPING_MAP_lo_res.jpg "Jaringan Pelayaran Dunia")](/img/SHIPPING_MAP_lo_res.jpg)|
+|:--:|
+|*Jaringan Pelayaran Dunia*|
