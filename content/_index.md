@@ -3,9 +3,11 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T04:45:22.097Z
+lastmod: 2022-07-30T05:34:54.894Z
 slug: Home
 type: docs
+staticDir:
+  - static
 description: Terminal petikemas modern merupakan tempat di mana berbagai aktivitas kompleks
   mengangkat dan memindahkan kargo terjadi pada saat yang bersamaan, mesin-mesin
   besar dan peralatan berat bergerak ke segala arah, juga tempat kapal dan
