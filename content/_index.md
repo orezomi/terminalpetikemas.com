@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-31T01:50:13.930Z
+lastmod: 2022-07-31T06:42:31.164Z
 slug: Home
 type: docs
 staticDir:
@@ -31,6 +31,9 @@ resources:
   - src: "**meratus*.png"
     params:
       byline: "Photo by : meratusline.com, 2022"
+  - src: "**apmoller*.jpg"
+    params:
+      byline: "Photo by : alphacoders.com.com, Data by : maersk.com"
 ---
 ## Kenapa Terminal Petikemas
 
@@ -52,6 +55,10 @@ Lalu-lintas pelayaran dunia bisa menjadi indikator atas perkembangan perekonomia
 
 {{< imgproc shipping Fill "800x500" >}}
 Jaringan Pelayaran Dunia
+{{< /imgproc >}}
+
+{{< imgproc apmoller Fill "800x642" >}}
+Kapal Maersk A.P. Moller, Dengan kapasitas 18.270 TEUs melayani rute Hongkong - Yokohama
 {{< /imgproc >}}
 
 ## Jaringan Pelayaran Domestik
