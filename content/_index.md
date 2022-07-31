@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-30T09:32:58.652Z
+lastmod: 2022-07-31T01:50:13.930Z
 slug: Home
 type: docs
 staticDir:
@@ -22,6 +22,15 @@ resources:
   - src: "**pendulum*.png"
     params:
       byline: "Photo by : terminalpetikemas.com"
+  - src: "**west1*.jpg"
+    params:
+      byline: "Photo by : spil.co.id, 10 Maret 2022"
+  - src: "**tantonet*.png"
+    params:
+      byline: "Photo by : tantonet.com, 2022"
+  - src: "**meratus*.png"
+    params:
+      byline: "Photo by : meratusline.com, 2022"
 ---
 ## Kenapa Terminal Petikemas
 
@@ -47,6 +56,21 @@ Jaringan Pelayaran Dunia
 
 ## Jaringan Pelayaran Domestik
 
+Di Indonesia juga terdapat jaringan pelayaran yang menghubungkan terminal petikemas dari Sabang sampai Merauke. Titik-titik utama sebagai penghubung jaringan ini dimulai dari Belawan, Jakarta, Surabaya, Makassar, Ambon, Sorong dan Jayapura.
+
 {{< imgproc pendulum Fill "800x322" >}}
 Jaringan Pelayaran Domestik
+{{< /imgproc >}}
+
+Pelayaran domestik berlomba-lomba untuk membuat project rute pelayaran yang menguntungkan, tentunya harus efektif dan efisien. Dan tentu saja dalam menentukan rute dan jadwal pelayaran para pelaku pelayaran domestik ini sangat mempertimbangkan performa terminal petikemas yang dilalui. Kita bisa perhatikan contoh rute pelayaran domestik [SPIL](https://www.spil.co.id/project/), [TANTO](https://www.tantonet.com/schedule.php) dan [MERATUS](https://www.meratusline.com/id/guest/schedule-&-tracking) berikut ini,
+{{< imgproc west1 Fill "800x285" >}}
+Rute Pelayaran SPIL - Pendulum West I
+{{< /imgproc >}}
+
+{{< imgproc tantonet Fill "800x369" >}}
+Rute Pelayaran TANTO dari dan ke Sulawesi
+{{< /imgproc >}}
+
+{{< imgproc meratus Fill "500x184" >}}
+Rute Pelayaran Meratus dari dan ke Sumatera
 {{< /imgproc >}}
