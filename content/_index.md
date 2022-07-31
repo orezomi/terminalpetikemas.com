@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-31T06:42:31.164Z
+lastmod: 2022-07-31T07:00:50.998Z
 slug: Home
 type: docs
 staticDir:
@@ -69,7 +69,7 @@ Di Indonesia juga terdapat jaringan pelayaran yang menghubungkan terminal petike
 Jaringan Pelayaran Domestik
 {{< /imgproc >}}
 
-Pelayaran domestik berlomba-lomba untuk membuat project rute pelayaran yang menguntungkan, tentunya harus efektif dan efisien. Dan tentu saja dalam menentukan rute dan jadwal pelayaran para pelaku pelayaran domestik ini sangat mempertimbangkan performa terminal petikemas yang dilalui. Kita bisa perhatikan contoh rute pelayaran domestik [SPIL](https://www.spil.co.id/project/), [TANTO](https://www.tantonet.com/schedule.php) dan [MERATUS](https://www.meratusline.com/id/guest/schedule-&-tracking) berikut ini,
+Pelayaran domestik berlomba-lomba untuk meningkatkan efisiensi dan efektifitas pelayarannya dengan terus melakukan improvement dan evaluasi atas rute layanannya. Dan tentu saja dalam menentukan rute dan jadwal pelayaran perusahan-perusahaan pelayaran domestik ini sangat mempertimbangkan performa terminal petikemas yang dilalui. Kita bisa perhatikan contoh rute pelayaran domestik [SPIL](https://www.spil.co.id/project/), [TANTO](https://www.tantonet.com/schedule.php) dan [MERATUS](https://www.meratusline.com/id/guest/schedule-&-tracking) berikut ini,
 {{< imgproc west1 Fill "800x285" >}}
 Rute Pelayaran SPIL - Pendulum West I
 {{< /imgproc >}}
