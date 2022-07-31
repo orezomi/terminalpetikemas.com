@@ -8,10 +8,10 @@ taxonomies:
   category: categories
 minify:
   minifyOutput: true
-enableGitInfo: true
+# enableGitInfo: true
 params:
   ShowShareButtons: true
-  github_repo: 'https://github.com/orezomi/terminalpetikemas.com'
+  # github_repo: 'https://github.com/orezomi/terminalpetikemas.com'
   offlineSearch: true
   offlineSearchSummaryLength: 200
   offlineSearchMaxResults: 25
