@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-31T07:00:50.998Z
+lastmod: 2022-07-31T07:40:24.868Z
 slug: Home
 type: docs
 staticDir:
@@ -58,7 +58,7 @@ Jaringan Pelayaran Dunia
 {{< /imgproc >}}
 
 {{< imgproc apmoller Fill "800x642" >}}
-Kapal Maersk A.P. Moller, Dengan kapasitas 18.270 TEUs melayani rute Hongkong - Yokohama
+Kapal Maersk A.P. Moller, Dengan kapasitas 18.270 TEUs melayani rute Hongkong - Yantian - Shanghai - Qingdao - Busan - Yokohama
 {{< /imgproc >}}
 
 ## Jaringan Pelayaran Domestik
