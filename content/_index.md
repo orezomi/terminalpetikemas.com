@@ -3,7 +3,7 @@ title: Terminal Petikemas
 linkTitle: Home
 date: 2022-07-28T22:09:33+07:00
 draft: false
-lastmod: 2022-07-31T07:40:24.868Z
+lastmod: 2022-07-31T09:17:40.022Z
 slug: Home
 type: docs
 staticDir:
@@ -34,6 +34,13 @@ resources:
   - src: "**apmoller*.jpg"
     params:
       byline: "Photo by : alphacoders.com.com, Data by : maersk.com"
+  - src: "**sembako*.jpeg"
+    params:
+      byline: "Photo by : setkab.go.id"
+  - src: "**supplychain*.png"
+    params:
+      byline: "Photo by : Florin NICOLAE, Naval Academy Scientific Bulletin, Volume
+        XIX – 2016"
 ---
 ## Kenapa Terminal Petikemas
 
@@ -80,4 +87,19 @@ Rute Pelayaran TANTO dari dan ke Sulawesi
 
 {{< imgproc meratus Fill "500x184" >}}
 Rute Pelayaran Meratus dari dan ke Sumatera
+{{< /imgproc >}}
+
+## Distribusi Bahan Kebutuhan Pokok
+
+Kesibukan jalur-jalur pelayaran dan terminal-terminal petikemas tidak lain manfaatnya adalah untuk mendukung kelancaran distribusi bahan-bahan kebutuhan masyarakat. Barang-barang diproduksi di pulau Jawa didistribusikan ke daerah-daerah lain di Indonesia melalui jalur-jalur pelayaran ini. Sebaliknya bahan-bahan baku yang berasal dari daerah dikirim ke industri untuk diolah dan dijadikan bahan siap konsumsi dan siap guna.
+
+{{< imgproc sembako Fill "600x345" >}}
+Bahan Kebutuhan Pokok Masyarakat
+{{< /imgproc >}}
+
+Pada dasarnya Terminal Petikemas hanyalah sebagian dari rantai pasok yang panjang. Masih ada lanjutan konektivitas di luar Terminal Petikemas sampai dengan ke produsen dan konsumen dimana barang-barang dibuat dan diterima. Jalur darat dan udara yang juga tidak kalah pentingnya.
+Sebagian besar wilayah indonesia adalah perairan, karenanya sudah sepatutnya Indonesia memiliki fungsi pelayaran dan penanganan kargo di pelabuhan yang *excellent*.
+
+{{< imgproc supplychain Fill "800x304" >}}
+Maritime Logistics in Supply Chain Management
 {{< /imgproc >}}
