@@ -1,0 +1,19 @@
+<!-- Use it like any other HTML element -->
+<style>
+    model-viewer {
+      width: 100%;
+      min-height: 600px;
+    }
+</style>
+<model-viewer 
+    camera-controls
+    alt="Neil Amstrong"
+    src="{{ index .Params 0 }}"
+    ar 
+    ar-modes="webxr scene-viewer quick-look" 
+    seamless-poster shadow-intensity="1" 
+    environment-image="{{ index .Params 1 }}"
+    poster="{{ index .Params 2 }}"
+    camera-controls enable-pan>
+</model-viewer>
+
