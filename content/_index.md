@@ -97,7 +97,7 @@ Kesibukan jalur-jalur pelayaran dan terminal-terminal petikemas tidak lain manfa
 Bahan Kebutuhan Pokok Masyarakat
 {{< /imgproc >}}
 
-Pada dasarnya Terminal Petikemas hanyalah sebagian dari rantai pasok yang panjang. Masih ada lanjutan konektivitas di luar Terminal Petikemas sampai dengan ke produsen dan konsumen dimana barang-barang dibuat dan diterima. Jalur darat dan udara yang juga tidak kalah pentingnya.
+Pada dasarnya Terminal Petikemas hanya sebagian dari rantai pasok yang panjang. Masih ada lanjutan konektivitas di luar Terminal Petikemas sampai dengan ke produsen dan konsumen dimana barang-barang dibuat dan diterima. Jalur darat dan udara yang juga tidak kalah pentingnya.
 Sebagian besar wilayah indonesia adalah perairan, karenanya sudah sepatutnya Indonesia memiliki fungsi pelayaran dan penanganan kargo di pelabuhan yang *excellent*.
 
 {{< imgproc supplychain Fill "800x304" >}}
