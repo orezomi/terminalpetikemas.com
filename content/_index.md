@@ -50,7 +50,7 @@ Terminal petikemas memiliki peran sentral dalam transportasi barang internasiona
 
 Efisiensi terminal dalam menjalankan fungsinya memiliki dampak yang sangat signifikan terhadap kecepatan, kelancaran dan biaya pengangkutan kargo dari penjual ke pembeli atau dari eksportir ke importir.
 
-Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin
+Setiap orang yang bekerja di terminal berperan dalam membuat terminal bekerja seefisien mungkin.
 
 {{< imgproc terminal Fill "800x500" >}}
 Terminal Petikemas
